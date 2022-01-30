@@ -1,0 +1,30 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\MATHERFUCKER\\\\Desktop\\\\protfolio-for-developer-using-nuxt-js\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_347394a4"
+  },
+  {
+    "name": "myself",
+    "path": "/myself",
+    "component": "C:\\\\Users\\\\MATHERFUCKER\\\\Desktop\\\\protfolio-for-developer-using-nuxt-js\\\\pages\\\\myself.vue",
+    "chunkName": "pages/myself",
+    "_name": "_78fd6224"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "C:\\\\Users\\\\MATHERFUCKER\\\\Desktop\\\\protfolio-for-developer-using-nuxt-js\\\\pages\\\\projects.vue",
+    "chunkName": "pages/projects",
+    "_name": "_497feda6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\MATHERFUCKER\\\\Desktop\\\\protfolio-for-developer-using-nuxt-js\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f3570954"
+  }
+]

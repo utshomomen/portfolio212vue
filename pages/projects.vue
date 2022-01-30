@@ -57,7 +57,7 @@
 
 <div class="abouthy-img-grids">
     <div class="img-one">
-        <img src="/resources/assets/images/g5.jpg" alt=" " class="img-fluid">
+        <img src="/resources/assets/images/fiverd2.png" alt=" " class="img-fluid">
     </div>
     <div class="img-one content-mid">
         <center>
@@ -67,7 +67,7 @@
         </center>
     </div>
     <div class="img-one">
-        <img src="/resources/assets/images/g3.jpg" alt=" " class="img-fluid">
+        <img src="/resources/assets/images/Mobilefix.png" alt=" " class="img-fluid">
     </div>
 </div>
 
