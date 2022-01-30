@@ -5,7 +5,7 @@
   <div class="container">
       <nav class="navbar navbar-expand-lg stroke">
           <nuxt-link to="/" class="navbar-brand">
-              <span class="fa fa-laptop"></span> {{data.main.shortname}}
+              <span class=""></span> {{data.main.shortname}}
           </nuxt-link>
           
           <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
