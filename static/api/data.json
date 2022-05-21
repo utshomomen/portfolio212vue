@@ -67,7 +67,7 @@
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
         "education": [{
-            "school": "lorem2",
+            "school": "ННГУ",
             "degree": "Bachelor's Degree, Software Engineer",
             "graduated": "July 2021",
             "description": "Graduated "
@@ -113,34 +113,34 @@
     "portfolio": {
         "projects": [{
                 "no":"01",
-                "title": "1",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "#"
+                "title": "wave bd ",
+                "description": "a ecommerce platform",
+                "url": "http://wave-bd.com/"
             },
             {
                 "no":"02",
-                "title": "2",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "#"
+                "title": "GeniusApple.ru",
+                "description": "A Russian based telephone service center",
+                "url": "http://GeniusApple.ru"
             },
             {
                 "no":"03",
                 "title": "3",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "description": "NFT MARKETPLACE.",
                 "url": "#"
             }
         ]
     },
     "testimonials": {
         "testimonials": [{
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "text": "Great guy with Great wrok",
                 "clientname": "John wilson",
                 "clientaddress": "Seattle, Washington"
             },
             {
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "text": "Thank you for Photoshop File",
                 "clientname": "David haris",
-                "clientaddress": "London, England"
+                "clientaddress": "UPWORK"
             }
         ]
     },
@@ -149,17 +149,21 @@
             {
                 "no": "01",
                 "title": "UI/UX Design and Web Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "description": "Checkout my Behance  ",
+                "url": "https://www.behance.net/utshomomen"
+
             },
             {
                 "no": "02",
                 "title": "3d animate and 2d/3d illustration",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "description": "You can checkout my artstation profile.",
+                "url": "#"
             },
             {
                 "no": "03",
                 "title": "Web Development",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "description": "Checkout my Dribbble page for building and buying design",
+                "url": "https://dribbble.com/utshomomen"
             }
         ]
     },
