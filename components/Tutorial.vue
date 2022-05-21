@@ -10,15 +10,8 @@
         <h2 class="text-2xl leading-7 font-semibold">
           Hello! my name is <b>Baizid MD Ashadzzaman</b>
         </h2>
-        <p class="mt-3 text-gray-600">
-          The site is under development, you can still checkout my other personal site build other frontend framework. <a href="https://baizidmdashadzzaman.com/" target="_blank" class="text-green-500 hover:underline">baizidmdashadzzaman.com</a><br>
-        </p>
-        <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
-          React protfoilo : <a href="https://baizidmdashadzzaman.com/" target="_blank" class="text-green-500 hover:underline">baizidmdashadzzaman.com</a><br>
-		  Next protfoilo : <a href="https://baizidmdashadzzaman.vercel.app/" target="_blank" class="text-green-500 hover:underline">baizidmdashadzzaman.vercel.app</a><br>
-		  Next protfoilo : <a href="http://asadzaman0167.herokuapp.com/" target="_blank" class="text-green-500 hover:underline">asadzaman0167.herokuapp.com</a><br>
-		  Nuxt protfoilo : <a href="https://baizidmdashadzzaman-nuxt.vercel.app/" target="_blank" class="text-green-500 hover:underline">baizidmdashadzzaman-nuxt.vercel.app</a><br>
-        </p>
+   
+        
       </div>
       <div class="flex justify-center pt-4 space-x-2">
         <a href="https://github.com/nuxt/nuxt.js" target="_blank"><svg
